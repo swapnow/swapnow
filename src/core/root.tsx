@@ -15,7 +15,7 @@ import Bookmarks from 'modules/bookmarks';
 import MyPosts from 'modules/my_posts';
 import Rfps from 'modules/rfps';
 import PostForm from 'modules/post_form';
-import RfpForm from 'modules/rfps/subcomponents';
+import RfpForm from 'modules/rfps_form';
 
 interface RootProps {
   store: Store<any>;
